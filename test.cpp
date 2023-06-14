@@ -1,8 +1,6 @@
 #include <iostream>
 
-void main()
+void hello()
 {
-  std::cout << "Hello world!!!";
-  std::cout << "Change 1";
-  std::cout << "Change 2";
+  std::cout << "Test!!!";
 }
