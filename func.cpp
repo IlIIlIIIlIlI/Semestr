@@ -2,7 +2,7 @@
 
 void hello()
 {
-  std::cout << "change1";
+  std::cout << "func!";
   std::cout << "change2";
   std::cout << "change3";
 }
