@@ -1,6 +1,6 @@
 #include <iostream>
 
-void hello()
+void main()
 {
   std::cout << "Test123!!!";
 }
