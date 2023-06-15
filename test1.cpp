@@ -2,5 +2,6 @@
 
 void main()
 {
-  std::cout << "Test123!!!";
+  std::string test = "Test";
+  std::cout << test;
 }
