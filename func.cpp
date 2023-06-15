@@ -2,7 +2,6 @@
 
 void hello()
 {
-  std::cout << "change1";
-  std::cout << "change2";
-  std::cout << "change3";
+  std::string hello = "hello";
+  std::cout << hello;
 }
