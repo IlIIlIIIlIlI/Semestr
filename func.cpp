@@ -10,5 +10,4 @@ void hello()
 
   std::string hello = "hello";//<строковая переменная, хранящая текст
   std::cout << hello;
-
 }
